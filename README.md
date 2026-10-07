@@ -7,3 +7,4 @@ Los laboratorios están organizados para trabajar los conceptos mediante ejemplo
 ## Laboratorios
 
 - [Laboratorio 1 — Primeros pasos con Java](laboratorios/laboratorio-01.md)
+- [Laboratorio 2 — Decisiones, ciclos y métodos en Java](laboratorios/laboratorio-02.md)
