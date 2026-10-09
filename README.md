@@ -8,3 +8,4 @@ Los laboratorios están organizados para trabajar los conceptos mediante ejemplo
 
 - [Laboratorio 1 — Primeros pasos con Java](laboratorios/laboratorio-01.md)
 - [Laboratorio 2 — Decisiones, ciclos y métodos en Java](laboratorios/laboratorio-02.md)
+- [Laboratorio 3 — Introducción a la programación orientada a objetos en Java](laboratorios/laboratorio-03.md)
