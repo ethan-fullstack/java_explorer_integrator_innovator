@@ -10,3 +10,4 @@ Los laboratorios están organizados para trabajar los conceptos mediante ejemplo
 - [Laboratorio 2 — Decisiones, ciclos y métodos en Java](laboratorios/laboratorio-02.md)
 - [Laboratorio 3 — Introducción a la programación orientada a objetos en Java](laboratorios/laboratorio-03.md)
 - [Laboratorio 4 — Colecciones y manejo de excepciones en Java](laboratorios/laboratorio-04.md)
+- [Laboratorio 5 — Simulación completa de un proyecto Java con Scrum y GitHub](laboratorios/laboratorio-05.md)
