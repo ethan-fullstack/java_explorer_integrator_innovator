@@ -2,7 +2,7 @@
 
 En los [Laboratorios 1–4](../README.md) aprendiste a trabajar con variables, métodos, objetos y colecciones. También utilizaste `javac` para compilar y `java` para ejecutar programas. Pero ¿qué sucede entre guardar un archivo `.java` y ver una salida?, ¿qué ocurre cuando un método llama a otro?, ¿por qué dos variables pueden modificar el mismo objeto?, ¿y por qué reasignar un parámetro no cambia la variable del método que hizo la llamada?
 
-En este laboratorio vas a estudiar la arquitectura de **Java 21** mediante programas que podrás ejecutar y depurar. Comenzarás por el JDK, el JRE y la JVM; continuarás con bytecode, llamadas a métodos, Stack y Heap; y terminarás con un **caso de estudio real de PetMatch Community Alpha**, una aplicación desarrollada con Spring Boot. Para realizar las prácticas **no necesitas ejecutar PetMatch ni instalar Spring Boot, Maven o una base de datos**.
+En este laboratorio vas a estudiar la arquitectura de **Java 21** mediante programas que podrás ejecutar y depurar. Comenzarás por el JDK, el JRE y la JVM; continuarás con bytecode, llamadas a métodos, Stack y Heap; y terminarás con un **caso de estudio real de PetMatch Community**, una aplicación desarrollada con Spring Boot. Para realizar las prácticas **no necesitas ejecutar PetMatch ni instalar Spring Boot, Maven o una base de datos**.
 
 | Práctica | Tema |
 |---|---|
@@ -853,7 +853,7 @@ Outside: 99, 2
 
 ### 4. Caso de estudio — El ejemplo original de PetMatch
 
-En PetMatch Community Alpha existe un programa independiente que permite enseñar estas reglas. Su nombre es [`MemoryDemo.java`](https://github.com/ethan-fullstack/petmatch-community-alpha/blob/codex/petmatch-cobertura-trimestre5/examples/java-jvm-memory/MemoryDemo.java) y está acompañado por un [README explicativo](https://github.com/ethan-fullstack/petmatch-community-alpha/blob/codex/petmatch-cobertura-trimestre5/examples/java-jvm-memory/README.md).
+En PetMatch Community existe un programa independiente que permite enseñar estas reglas. Su nombre es [`MemoryDemo.java`](https://github.com/ethan-fullstack/petmatch-community/blob/examples/java-jvm-memory/MemoryDemo.java) y está acompañado por un [README explicativo](https://github.com/ethan-fullstack/petmatch-community/blob/examples/java-jvm-memory/README.md).
 
 El ejemplo **no es un controlador Spring**, no depende de JPA y no requiere conexión a la base de datos. Se conserva como un estudio de caso basado en el dominio de mascotas.
 
@@ -1270,4 +1270,4 @@ En los siguientes temas encontrarás las mismas reglas dentro de servicios, enti
 - [Java 21 — Herramienta `javap`](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javap.html)
 - [Java Virtual Machine Specification, Java SE 21 — Áreas de memoria y marcos de ejecución (§2.5–2.6)](https://docs.oracle.com/javase/specs/jvms/se21/html/jvms-2.html)
 - [Java Language Specification, Java SE 21 — Invocación de métodos y evaluación de argumentos (§15.12.4)](https://docs.oracle.com/javase/specs/jls/se21/html/jls-15.html#jls-15.12.4)
-- [PetMatch Community Alpha — README del ejemplo de memoria](https://github.com/ethan-fullstack/petmatch-community-alpha/blob/codex/petmatch-cobertura-trimestre5/examples/java-jvm-memory/README.md)
+- [PetMatch Community — README del ejemplo de memoria](https://github.com/ethan-fullstack/petmatch-community/blob/examples/java-jvm-memory/README.md)
