@@ -12,3 +12,4 @@ Los laboratorios están organizados para trabajar los conceptos mediante ejemplo
 - [Laboratorio 4 — Colecciones y manejo de excepciones en Java](laboratorios/laboratorio-04.md)
 - [Laboratorio 5 — Simulación completa de un proyecto Java con Scrum y GitHub](laboratorios/laboratorio-05.md)
 - [Laboratorio 6 — Arquitectura Java: de la ejecución del programa a la memoria](laboratorios/laboratorio-06.md)
+- [Laboratorio 7 — De Java a la web: arquitectura en capas, Spring Boot, Spring MVC y Thymeleaf](laboratorios/laboratorio-07.md)
