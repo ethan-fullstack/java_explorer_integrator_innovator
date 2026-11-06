@@ -16,3 +16,4 @@ Los laboratorios están organizados para trabajar los conceptos mediante ejemplo
 - [Laboratorio 8 — Formularios, validación y operaciones CRUD con Spring Boot y Thymeleaf](laboratorios/laboratorio-08.md)
 - [Laboratorio 9 — Persistencia de datos con MariaDB, JPA, Hibernate y Spring Data JPA](laboratorios/laboratorio-09.md)
 - [Laboratorio 10 — Relaciones JPA, reglas de negocio, transacciones y estados con Spring Boot](laboratorios/laboratorio-10.md)
+- [Laboratorio 11 — Registro, autenticación y autorización con Spring Security](laboratorios/laboratorio-11.md)
