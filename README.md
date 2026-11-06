@@ -14,3 +14,4 @@ Los laboratorios están organizados para trabajar los conceptos mediante ejemplo
 - [Laboratorio 6 — Arquitectura Java: de la ejecución del programa a la memoria](laboratorios/laboratorio-06.md)
 - [Laboratorio 7 — De Java a la web: arquitectura en capas, Spring Boot, Spring MVC y Thymeleaf](laboratorios/laboratorio-07.md)
 - [Laboratorio 8 — Formularios, validación y operaciones CRUD con Spring Boot y Thymeleaf](laboratorios/laboratorio-08.md)
+- [Laboratorio 9 — Persistencia de datos con MariaDB, JPA, Hibernate y Spring Data JPA](laboratorios/laboratorio-09.md)
